@@ -1,0 +1,40 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+}
+
+.title-logo{
+	height: 30%;
+	width: 20%;
+	margin-top: 20px;
+}
+
+.ruler{
+	color: #7d97ad;
+	background-color: #7d97ad;
+	height: 4px;
+}
+
+.header-text{
+	font-size: 60px;
+	color: #2d3c49;
+	font-weight: 200;
+}
+
+.text-thin{
+	font-weight: 200;
+}
+
+.text-muted{
+	color: #7d97ad;
+	font-weight: 300;
+	font-size: 40px
+}
+
+.footer{
+	font-size: 40px;
+	font-weight: 600;
+	color: #2d3c49;
+}
+
+
